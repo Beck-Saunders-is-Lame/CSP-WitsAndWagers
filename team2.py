@@ -8,8 +8,8 @@ class Team2:
    def __init__(self):
     
       #update this variable in responding to questions   
-      self.answer_question_amt = 1650
+      self.answer_question_amt = 1503
       
       #update these variables in placing your bet
-      self.bet_position = 0
-      self.bet_amount = 0
+      self.bet_position = 1
+      self.bet_amount = 10
